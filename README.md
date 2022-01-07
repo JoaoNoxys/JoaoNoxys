@@ -1,4 +1,4 @@
-### Olá eu sou o João e atualmente estou estudando Python
+### Olá eu sou o João e atualmente estou estudando HTML e CSS
 
 <div align="center">
   <a href="https://github.com/joaonoxys">
@@ -7,8 +7,11 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Joao--Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  </div>
+  
   
   ##
   
