@@ -1,4 +1,4 @@
-### Olá eu sou o João e atualmente estou estudando HTML e CSS
+### Hi I am João
 
 <div align="center">
   <a href="https://github.com/joaonoxys">
