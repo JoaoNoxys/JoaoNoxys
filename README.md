@@ -1,8 +1,8 @@
-### Hi I am João
+### Hi I'm João
 
 <div align="center">
   <a href="https://github.com/joaonoxys">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaonoxys&show_icons=true&theme=dark&include_all_commits=True"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaonoxys&show_icons=true&theme=darak&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoxys&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
