@@ -1,9 +1,9 @@
 ### Hi I'm João
 
 <div align="center">
-  <a href="https://github.com/joaonoxys">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaonoxys&show_icons=true&theme=dracula&include_all_commits=false&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonoxys&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/joaocruijff">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaocruijff&show_icons=true&theme=dracula&include_all_commits=false&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocruijff&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
